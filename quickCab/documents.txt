@@ -1,0 +1,18 @@
+Ejecucion del proyecto
+npm run dev
+
+Ayuda con la inconsistencia del codigo
+
+npm install standard -D
+
+"eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+}
+
+Gestion de rutas
+npm install react-router-dom
+
+los iconos los saco de 
+React icons ya descargue el paquete
+
+npm install react-icons --save
